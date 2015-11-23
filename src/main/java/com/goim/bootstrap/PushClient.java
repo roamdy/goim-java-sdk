@@ -75,7 +75,7 @@ public class PushClient extends AbstractBlockingClient {
 	}
 	
 	public static void main(String[] args) throws UnknownHostException {
-		PushClient cb = new PushClient(InetAddress.getByName("10.160.61.129"), 8080 , 1, "liangshan");
+		PushClient cb = new PushClient(InetAddress.getByName("10.160.61.129"), 8080 , 1, "game");
 		Listener listen = cb.new Listener();
         cb.addObserver(listen);
 		Thread t = new Thread(cb);

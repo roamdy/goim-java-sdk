@@ -1,8 +1,8 @@
 # goim-sdk
 
-1¡¢´ËsdkÔÚÔ­À´µÄgoim»ù´¡ÉÏ×öÁËĞŞ¸Ä£¬authÊ±ºò²»»á×Ô¶¯·ÖÅäroom=0
-»á¸ù¾İ
+1ã€æ­¤sdkåœ¨åŸæ¥çš„goimåŸºç¡€ä¸Šåšäº†ä¿®æ”¹ï¼Œauthæ—¶å€™ä¸ä¼šè‡ªåŠ¨åˆ†é…room=0
+ä¼šæ ¹æ®
 PushClient cb = new PushClient(InetAddress.getByName("10.160.61.129"), 8080 , 1, "game");
-ÖĞµÄgame¸÷¸ö×ÖÄ¸µÄasicsÉú³ÉroomId
+ä¸­çš„gameå„ä¸ªå­—æ¯çš„asicsç”ŸæˆroomId
 
-¾ßÌågoimµÄĞŞ¸ÄÄÚÈİ£¬ÁªÏµ QQ : 969201592
+å…·ä½“goimçš„ä¿®æ”¹å†…å®¹ï¼Œè”ç³» å¾®ä¿¡ï¼šAlandy59
